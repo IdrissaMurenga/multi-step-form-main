@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.aling-center{
+    align-items: center;
+}
+.gap{
+    gap: 1rem;
+}
+.show{
+    display: none;
+}
+
+.back-bg{
+    border-radius: 5px;
+    background-color: hsl(217, 100%, 97%);
+    color: hsl(213, 96%, 18%);
+}
+.finish-btn{
+    background-color: hsl(243, 100%, 62%);
+}
